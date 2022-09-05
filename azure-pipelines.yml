@@ -5,6 +5,7 @@
 
 trigger:
 - main
+- anilbd2003-patch-1
 
 variables:
 

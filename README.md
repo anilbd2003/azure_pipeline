@@ -3,7 +3,9 @@
 **Migrate Java webapp from Github to Azure cloud using Azure pipeline (YAML)**
 
 1] Create Azure account/subscription https://portal.azure.com
+
 2] Create GitHub account {https://github.com/} and upload java webapp code
+
 3] Directory structure for code:
    GitHub repo---mywebapp(anyfolder name)----src/main/webapp----index.jsp
    GitHub repo---mywebapp(anyfolder name)----src/main/webapp----WEB-INF-----web.xml

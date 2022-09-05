@@ -6,7 +6,7 @@
 <body>
 	<h2>Migrating Java WebApp from from GitHub into Azure Cloud using Azure pipeline!!! UPdated app to check CICD pipeline</h2>
 	  <h2>Azure DevOps has five different components !!!</h2>
-	   <h2>Content updated-->pull request----approved---->merge to masster !!!</h2>
+	   <h2>Content updated-->pull request----approved---->merge to master !!!</h2>
 
 </body>
 </html>

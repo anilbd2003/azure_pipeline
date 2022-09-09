@@ -7,6 +7,7 @@
 2] Create GitHub account {https://github.com/} and upload java webapp code
 
 3] Directory structure for code (maven project):
+
    GitHub repo---mywebapp(anyfolder name)----src/main/webapp----index.jsp
    
    GitHub repo---mywebapp(anyfolder name)----src/main/webapp----WEB-INF-----web.xml

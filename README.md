@@ -15,7 +15,8 @@
    GitHub repo---mywebapp(anyfolder name)----pom.xml
    
 4] Create organisation and project in Azure devops {https://dev.azure.com/}
-   Make sure to choose Git as version control while creating project. 
+   Make sure to choose Git as version control while creating project.
+   
   ** 5 key components of Azure devops:**
   * Boards--------for planning
   * Repos---------for source codes
